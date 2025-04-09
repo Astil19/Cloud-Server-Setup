@@ -1,3 +1,6 @@
+**Student Name:** Astil Binu  
+**Student Number:** 35483676 
+
 ## 📆 Development Timeline
 
 The project was developed iteratively over 4 weeks:
